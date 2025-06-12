@@ -1,3 +1,4 @@
+//I HAD TO GO TO W3-SCHOOLS AND READ THE WHOLE CHAPTER ON JS HTML DOM AND ASKED MDN WED DOCS. TO COME UP WITH THIS///
 // 1. Alter the text color of the paragraph to a shade of aqua.
 const paragraph = document.querySelector("p");
 paragraph.style.color = "aqua";
